@@ -1,0 +1,6 @@
+#ID,Item,Quantity,Price
+001,Laptop,2,8500000
+002,Mouse,5,120000
+003,Keyboard,3,250000
+004,Monitor,1,2100000
+005,Headset,4,350000
