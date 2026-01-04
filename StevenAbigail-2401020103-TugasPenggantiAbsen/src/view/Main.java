@@ -14,7 +14,7 @@ public class Main {
     }
 
     public void start() {
-        if (controller.loadSalesFile("D:\\Dosen\\2025\\PBO2025\\Pertemuan 12\\Sales\\src\\sales.txt"))
+        if (controller.loadSalesFile("src/sales.txt"))
         {
             controller.generateReport("report.txt");
         }
